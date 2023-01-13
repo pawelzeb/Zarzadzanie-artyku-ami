@@ -9,5 +9,4 @@ edytor HTML: TinyMCE (https://www.tiny.cloud)
 
 Panel administracyjny dostępny pod adresem :
 https://zwikjawor.pl/projekt/admin.php
-Login: piksell2@gmail.com
-hasło: 123456
+A
