@@ -1,9 +1,9 @@
 <?php
 $dbi = [
 'host' => 'localhost',
-'database' => 'zwik_dane',
-'user' => 'zwik_zwik',
-'password' => 'mjunior8!'];
+'database' => '',
+'user' => '',
+'password' => ''];
 //dane serwera sql
 
 try {
