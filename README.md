@@ -9,4 +9,5 @@ edytor HTML: TinyMCE (https://www.tiny.cloud)
 
 Panel administracyjny dostępny pod adresem :
 https://zwikjawor.pl/projekt/admin.php
-A
+Login: test@test.pl
+hasło: test
